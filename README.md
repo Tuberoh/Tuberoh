@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">The Coding Languege I know (Low/ Medium skills)</h2>
+<h2 align="left">The Coding Languege I know (Low skills)</h2>
 
 ###
 
