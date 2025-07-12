@@ -1,6 +1,12 @@
 <div align="center">
   <img height="200" src="https://avatars.githubusercontent.com/u/165823057?v=4"  />
 </div>
+<div align="center">
+  <h3>Social</h3>
+  <a href="https://instagram.com/cuykon.cc"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram"</a>
+  <a href="https://www.reddit.com/user/Tuberoh"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"</a>
+  <a href="https://x.com/AppleBrioche"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter"</a>
+</div>
 
 <h2 align="center">Who am I?</h2>
 
@@ -9,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/hitbh.png" height="150" width="106" alt="hitbh">
 </div>
 
-<h2 align="center">The Coding Languege I know (Low skills)</h2>
+<h2 align="center">CLanguage (Low Skill) & Tech Stack 💻</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -21,6 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="javascript logo"  />
+</div>
+<div align="center" padding="10">
+  <h5></h5>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <h5></h5>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/codingtbh.png" height="150" width="106" alt="codingtbh">
@@ -41,3 +53,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=Tuberoh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuberoh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+
