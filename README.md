@@ -12,7 +12,10 @@
 
 <div align="center">
   <p>Hi, I'm Tuberoh and I'm a student from Italy.<br>I love play open world video games and get in troubles with physics problems sometimes. <br>In my free time I usually develop my site <a href="https://cuykon.cc">Cuykon</a>.</p>
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/hitbh.png" height="150" width="106" alt="hitbh">
+  <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/lovetbh.png" height="150" width="105" alt="lovetbh">
 </div>
 
 <h2 align="center">CLanguage (Low Skill) & Tech Stack 💻</h2>
@@ -36,12 +39,14 @@
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/codingtbh.png" height="150" width="106" alt="codingtbh">
+  <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/chilltbh.png" height="150" width="105" alt="chilltbh">
 </div>
 
 <h2 align="center">General Stats</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/Pogtbh.png" height="150" alt="pogtbh">
+  <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/hypetbh.png" height="150" alt="hypetbh">
 </div>
 
 <div align="center">
