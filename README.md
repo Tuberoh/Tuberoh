@@ -2,13 +2,13 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/165823057?v=4"  />
 </div>
 <div align="center">
-  <h3>Social</h3>
+  <h3>Social 😶‍🌫️</h3>
   <a href="https://instagram.com/cuykon.cc"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram"</a>
   <a href="https://www.reddit.com/user/Tuberoh"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"</a>
   <a href="https://x.com/AppleBrioche"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter"</a>
 </div>
 
-<h2 align="center">Who am I?</h2>
+<h2 align="center">Who am I? 🧐</h2>
 
 <div align="center">
   <p>Hi, I'm Tuberoh and I'm a student from Italy.<br>I love play open world video games and get in troubles with physics problems sometimes. <br>In my free time I usually develop my site <a href="https://cuykon.cc">Cuykon</a>.</p>
@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/chilltbh.png" height="150" width="105" alt="chilltbh">
 </div>
 
-<h2 align="center">General Stats</h2>
+<h2 align="center">General Stats 📊</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tuberoh/Tuberoh/refs/heads/main/Sticker/Pogtbh.png" height="150" alt="pogtbh">
